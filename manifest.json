@@ -1,0 +1,30 @@
+
+
+  {
+    "name": "TU EZ ACCESS",
+    "description": "EASILY NAVIGATE THROUGH TU SITES",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "icons": {
+         "128": "icon128.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "appear.html",
+        "default_icon": {
+            
+            "128": "icon-logo.png"
+        }
+    },
+    "permissions": [
+        "storage",
+        "activeTab",
+        "scripting",
+        "tabs"
+    ],
+    "host_permissions": [
+        "https://www.google.com/*"
+    ]
+}
