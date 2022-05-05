@@ -8,4 +8,4 @@
 
 #### Link:
 
-<a href="http://example.com/" target="_blank">TU-GOOGLE-EXTENSION</a>
+<a href="https://chrome.google.com/webstore/detail/tu-ez-access/cmgkekjpjlgkmkjidnhiedkellmkknee?hl=en" target="_blank">TU-GOOGLE-EXTENSION</a>
